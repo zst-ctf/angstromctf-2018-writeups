@@ -1,0 +1,30 @@
+Foremost version 1.5.7 by Jesse Kornblum, Kris Kendall, and Nick Mikus
+Audit File
+
+Foremost started at Sat Mar 17 08:13:37 2018
+Invocation: foremost jiggs.gif 
+Output directory: /FILES/output
+Configuration file: /etc/foremost.conf
+------------------------------------------------------------------
+File: jiggs.gif
+Start: Sat Mar 17 08:13:37 2018
+Length: 1 MB (1117968 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+0:	00000000.png 	     144 KB 	          0 	  (500 x 323)
+1:	00000289.png 	     141 KB 	     148050 	  (500 x 323)
+2:	00000571.png 	     145 KB 	     292577 	  (500 x 323)
+3:	00000862.png 	     136 KB 	     441489 	  (500 x 323)
+4:	00001136.png 	     140 KB 	     581765 	  (500 x 323)
+5:	00001416.png 	     128 KB 	     725461 	  (500 x 323)
+6:	00001674.png 	     127 KB 	     857131 	  (500 x 323)
+7:	00001929.png 	     127 KB 	     987856 	  (500 x 323)
+Finish: Sat Mar 17 08:13:37 2018
+
+8 FILES EXTRACTED
+	
+png:= 8
+------------------------------------------------------------------
+
+Foremost finished at Sat Mar 17 08:13:37 2018

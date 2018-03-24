@@ -1,0 +1,32 @@
+Header :
+{:header=>"DIRC", :version=>2, :index_entry_count=>4}
+==========================================================================
+Entry 1
+{:stat_info=>
+  {:ctime=>{:time=>"2017-08-30 09:12:13 +0800", :nsec=>609836900},
+   :mtime=>{:time=>"2017-08-30 09:02:24 +0800", :nsec=>58178000},
+   :dev=>2113,
+   :inode=>202683,
+   :mode=>33188,
+   :uid=>1000,
+   :gid=>1000,
+   :size=>2663},
+ :id=>"aa168eed25aa55fff21054a858329cb4e1187ff0",
+ :flags=>{:name_length=>8, :stage=>0},
+ :name=>"index.py"}
+==========================================================================
+Entry 2
+{:stat_info=>
+  {:ctime=>{:time=>"1970-01-01 13:52:30 +0730", :nsec=>283976868},
+   :mtime=>{:time=>"2029-01-08 16:40:18 +0800", :nsec=>1237264783},
+   :dev=>2522873856,
+   :inode=>138477571,
+   :mode=>398065664,
+   :uid=>2175008768,
+   :gid=>65536000,
+   :size=>65536000},
+ :id=>"001fb8e1848501840d89d32c3f8eadfafe38a78f",
+ :flags=>{:name_length=>515, :stage=>0},
+ :name=>
+  "\x00\x10requirements.txt\x00\x00Y\xA6\x10z\x12\x05\xC5\xC8Y\xA6\v\xCB\x18\xE9B \x00\x00\bA\x00\x03\x17\xB8\x00\x00\x81\xA4\x00\x00\x03\xE8\x00\x00\x03\xE8\x00\x00\x03\xF1C1\xA9\as1\x14F\x1F\x8C\xE5*0v\xC4\x8A\xC2l\x00\xC2\x00\x14templates/index.html\x00\x00\x00\x00\x00\x00Y\xA6\x10z\x12\r\x93pY\xA6\r$\n\x19\xF0\x00\x00\x00\bA\x00\x03\x17\xB9\x00\x00\x81\xA4\x00\x00\x03\xE8\x00\x00\x03\xE8\x00\x00\x02\xA4)\xFF\xF8\xB2\xC5K\t\xCF\x03\x18\xDD\xE8=\e\xCB\xDC\x1Dm\"\xE8\x00\x18templates/loggedout.html\x00\x00TREE\x00\x00\x00;\x004 1\nU(\xCB\x84\xBA9\x06\t\x10\xE3\th\x8E+4\x00\x84b8\x99templates\x002 0\nc\x9C\x13)2 \xAC\x13\x8C\x16\xCD\xDF\xA9\xBE\xA8M\x16\xE0\xD1\xA7N\x18`\xD5\xEF\xB7~\x81o\x00\xE6\x9AQ5K\xB4\x99w&|"}
+==========================================================================
